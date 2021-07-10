@@ -14,7 +14,7 @@ The input boxes for each filter initially display the format it expects the text
 
 <img width="1221" alt="Screen Shot 2021-07-10 at 4 06 07 PM" src="https://user-images.githubusercontent.com/83552696/125178717-35482380-e19c-11eb-88bb-a4f2a8973cb5.png">
 
-To get rid of a filter, the user can delete the information in the input box, or refresh the entire table by clicking on the UFO Sightings text on the top of the webpage. The table filters based on current values in the input boxes, so deleting the values also deletes the filter placed on the data.
+To get rid of a filter, the user can delete the information in the input box and press enter, or refresh the entire table by clicking on the UFO Sightings text on the top of the webpage. The table filters based on current values in the input boxes, so deleting the values also deletes the filter placed on the data.
 
 ## Summary
 
