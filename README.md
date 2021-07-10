@@ -10,7 +10,7 @@ To use the webpage, scroll down to the interactive table that is below the artic
 
 <img width="1221" alt="Screen Shot 2021-07-10 at 4 05 52 PM" src="https://user-images.githubusercontent.com/83552696/125178501-848d5480-e19a-11eb-9113-e85a652a553e.png">
 
-The input boxes for each filter initially display the format it expects the text to be in. For example, the state filter expects the two-letter abbreviation of the state, like ca for California. The user can add the filters of their choice and then press enter:
+The input boxes for each filter initially display the format it expects the text to be in. For example, the state filter expects the two-letter abbreviation of the state, like co for Colorado. The user can add the filters of their choice and then press enter:
 
 <img width="1221" alt="Screen Shot 2021-07-10 at 4 06 07 PM" src="https://user-images.githubusercontent.com/83552696/125178717-35482380-e19c-11eb-88bb-a4f2a8973cb5.png">
 
